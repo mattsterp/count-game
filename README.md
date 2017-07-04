@@ -1,7 +1,6 @@
 # count-game
 
-This game utilizes CREATEJS.
-[CREATEJS](http://createjs.com/) is a modular suite of libraries which enable rich interactive HTML 5 content.
+This game utilizes [CREATEJS](http://createjs.com/) a modular suite of libraries which enable rich interactive HTML 5 content.
 
 [Play Count Game](https://count-game-js-es6.netlify.com/)
 *launches new tab*
