@@ -4,7 +4,7 @@ Welcome to my very simple counting game.  I made this game over the weekend foll
 
 *Link to play the game in the description*
 
-## Tools used
+## Skills
 
 * HTML Canvas
 * CSS
