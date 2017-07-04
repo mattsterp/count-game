@@ -2,6 +2,12 @@
 
 This game utilizes [CREATEJS](http://createjs.com/) a modular suite of libraries which enable rich interactive HTML 5 content.
 
+Some game assets were created in Adobe Animate CC as a HTML Canvas project and exported as a JavaScript library. *count-game-graphics.js*
+
+The game logic is coded in JavaScript ES6 and I have included a compiled version created with [Babel](https://babeljs.io/) for older browsers.   
+
+## Retina and touch support!
+
 [Play Count Game](https://count-game-js-es6.netlify.com/)
 *launches new tab*
 
