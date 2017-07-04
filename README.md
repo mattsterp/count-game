@@ -7,9 +7,8 @@ Some game assets were created in Adobe Animate CC as a HTML Canvas project and e
 The game logic is coded in JavaScript ES6 and I have included a compiled version created with [Babel](https://babeljs.io/) for older browsers.   
 
 ## Retina and touch support!
-
+Has sound on click(touch) adjust your volume!
 [Play Count Game](https://count-game-js-es6.netlify.com/)
-*launches new tab*
 
 ## Skills
 
