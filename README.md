@@ -1,8 +1,10 @@
 # count-game
 
-Welcome to my very simple counting game.  I made this game over the weekend following a Lynda.com tutorial.
+This game utilizes CREATEJS.
+[CREATEJS](http://createjs.com/) is a modular suite of libraries which enable rich interactive HTML 5 content.
 
-*Link to play the game in the description*
+[Play Count Game](https://count-game-js-es6.netlify.com/)
+*launches new tab*
 
 ## Skills
 
